@@ -7,6 +7,7 @@ package main
 //go:generate protoc --go_out=./ --go-grpc_out=./ --proto_path=../../pb ../../pb/demo.proto
 //test1
 //teset2
+//test3
 import (
 	"context"
 	"fmt"
